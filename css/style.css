@@ -1,0 +1,16 @@
+html,
+body {
+    background-color: #211D21;
+}
+
+.navbar-dark,
+.navbar-nav,
+.nav-link {
+    color: #A50113 !important;
+}
+
+.navbar-brand {
+    color: #C10206 !important;
+    font-weight: bolder;
+    font-size: xx-large !important;
+}
